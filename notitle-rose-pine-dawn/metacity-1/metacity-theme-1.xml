@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
     <info>
-        <name>onepx</name>
-        <author>Jamie Bainbridge</author>
-        <copyright>Jamie Bainbridge, 2016</copyright>
-        <date>2016-07-14</date>
-        <description>A one pixel border</description>
+        <name>notitle</name>
+        <author>Gustavo Jeuken</author>
+        <copyright>Gustavo Jeuken, 2024</copyright>
+        <date>2024-02-01</date>
+        <description>No title bar and a colorful border</description>
     </info>
 
 <frame_geometry name="frame_geometry_normal" has_title="false">
@@ -29,11 +29,11 @@
 </frame_geometry>
 
 <draw_ops name="draw_frame">
-    <rectangle color="#c4a7e7" x="0" y="0" width="width" height="height" filled="true"/>
+    <rectangle color="#907aa9" x="0" y="0" width="width" height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="draw_frame_unfocused">
-    <rectangle color="#393552" x="0" y="0" width="width" height="height" filled="true"/>
+    <rectangle color="#797593" x="0" y="0" width="width" height="height" filled="true"/>
 </draw_ops>
 
 
