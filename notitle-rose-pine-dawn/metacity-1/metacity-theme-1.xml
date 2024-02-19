@@ -29,11 +29,11 @@
 </frame_geometry>
 
 <draw_ops name="draw_frame">
-    <rectangle color="#c4a7e7" x="0" y="0" width="width" height="height" filled="true"/>
+    <rectangle color="#907aa9" x="0" y="0" width="width" height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="draw_frame_unfocused">
-    <rectangle color="#908caa" x="0" y="0" width="width" height="height" filled="true"/>
+    <rectangle color="#797593" x="0" y="0" width="width" height="height" filled="true"/>
 </draw_ops>
 
 
